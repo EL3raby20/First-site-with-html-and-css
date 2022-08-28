@@ -1,0 +1,36 @@
+.navbar{
+    font-family: 'Rubik', sans-serif;
+
+
+}
+.navbar-brand{
+    padding:30;
+    margin-right: 600px;
+}
+.hi{
+    padding-top: 200px;
+    
+    
+}
+
+.left{padding-left: 100px;}
+.down{
+    padding-top: 233px;
+}
+
+.Month{
+    padding:30px 30px 30px 30px;
+}
+
+.Great {
+    padding-right: 20px;
+}
+
+.font{
+    font-family: 'DynaPuff', cursive;
+
+}
+
+#change{
+    background-color: rgb(245, 156, 55);
+}
